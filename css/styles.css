@@ -1,0 +1,10 @@
+html{
+	scroll-behavior: steelblue;
+}
+body{
+	background: #fcf9f8;
+	background-color: 	lightgrey;
+}
+#oculto {
+    display: none;
+}
